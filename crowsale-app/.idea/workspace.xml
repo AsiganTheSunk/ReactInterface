@@ -10,8 +10,13 @@
   </component>
   <component name="ProjectId" id="1SQyhgOGm8NTISpXj9ccgXUM7Rs" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../EthereumPARTokenCrowdSale" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

@@ -1,0 +1,20 @@
+    const hposition = {
+      position: 'absolute', left: '50%', top: '50%',
+      transform: 'translate(-50%, -50%)'
+    };
+
+
+
+    const headline = {
+        textAlign: 'center', // <-- the magic
+        fontWeight: 'bold',
+        fontSize: 18,
+        marginTop: 0,
+        width: 100,
+    };
+
+
+
+    const headerStyle = {
+        textAlign: 'center',
+    }
